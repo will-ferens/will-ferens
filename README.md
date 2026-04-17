@@ -1,15 +1,19 @@
 # Howdy!
 
-I'm a Software Engineer. 
+I'm Will. 
 
-Currently, I work at Evolve as a Node.js developer. My work on the Integrations team ensures the thousands of bookings that route through our site and the sites of our partners (like AirBnb, Vrbo, and Rentals United) are kept up to date. We use exciting new technologies like Terraform, TypeScript, and dozens of AWS services to build scalable solutions for one of the fastest growing companies in the vacation rental space.
+## What I'm working on
 
-In the past, I worked at Searchspring where I helped create amazing e-commerce experiences. Chances are, if you've bought clothing, outdoor gear, furniture, or even auto parts from an independent retailer online - you've used my code! 
+- At Sigil, I build automation systems that scan thousands of marketplace listings and drive enforcement workflows through integrations like Monday.com
+- At Emgenisys, I lead frontend development for a platform that makes complex machine learning pipelines usable for real-world decision making
+- I enjoy building new things and solving problems 
 
-I primarily have experience with JavaScript - Typescript, React, Angular, and Node.js - but I've also used Java and Swift in the past.
+## What I work with
 
-You can learn more about me at my blog, www.will-ferens.com where I detail [personal projects](https://www.will-ferens.com/blog/creating-my-book-log) ✏️, learn about new tech 👾, and [review the books I've read](https://www.will-ferens.com/books) 📚.
+TypeScript • Python • React • Node.js • AWS • GCP 
 
-When I'm not coding, reading, or writing, I love to ski ⛷, summit mountains 🏔, and travel 🌎.
+You can learn more about me at my site, www.will-ferens.com.
+
+I code, read, or write, and go outside to to ski, summit mountains, and travel.
 
 Feel free to drop me a line at will.ferens@gmail.com ✌🏽!
