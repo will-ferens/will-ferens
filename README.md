@@ -6,7 +6,6 @@ I'm Will.
 
 - At Sigil, I build automation systems that scan thousands of marketplace listings and drive enforcement workflows through integrations like Monday.com
 - At Emgenisys, I lead frontend development for a platform that makes complex machine learning pipelines usable for real-world decision making
-- I enjoy building new things and solving problems 
 
 ## What I work with
 
