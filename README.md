@@ -4,12 +4,12 @@ I'm Will.
 
 ## What I'm working on
 
-- At Sigil, I build automation systems that scan thousands of marketplace listings and drive enforcement workflows through integrations like Monday.com
+- At Windfall, I build full-stack platforms that turn raw data into valuable indicators for fundraising teams.
 - At Emgenisys, I lead frontend development for a platform that makes complex machine learning pipelines usable for real-world decision making
 
 ## What I work with
 
-TypeScript • Python • React • Node.js • AWS • GCP 
+TypeScript • Java • Python • React • Node.js • AWS • GCP 
 
 You can learn more about me at my site, www.will-ferens.com.
 
